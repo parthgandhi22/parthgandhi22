@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Parth Gandhi</h1>
+<h1 align="center">Hi, I'm Parth Gandhi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Competitive+Programmer;600%2B+LeetCode+Problems;Building+AI-powered+Products;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;900%2B+LeetCode+Problems;Building+scalable+real+world+Products;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 <p align="center">
